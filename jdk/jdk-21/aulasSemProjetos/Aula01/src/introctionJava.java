@@ -1,3 +1,4 @@
+package src;
 // import Scanner 
 // Scanner is a input for java
 import java.util.Scanner;
